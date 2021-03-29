@@ -1,0 +1,33 @@
+
+
+This document outlines the personal data “PROSPECT” obtains from the user and how it is used to.
+
+We collect your First Name, Last Name, Email Address, Emergency Contacts (Name and Phone Number) and Profile Picture.
+
+This information is stored on Google Firebase Database and as such is stored and protected by their systems. We do not actively and/or knowingly sell or distribute your data.
+
+Creating an account using Facebook is done as per their standards and all permissions are in place to ensure we are strictly following their guidelines to best protect the information we receive from Facebook.
+
+Creating an account using Google is done as per their standards and all permissions are in place to ensure we are strictly following their guidelines to best protect the information we receive from Google.
+
+The use of your personal data in relation to functionality of Prospect is as follows:
+
+First Name / Last Name is used to personalise the user experience and also used for the S.O.S feature.
+
+Email Address is used to identify your account between Prospect and Googles Firebase Database.
+
+Emergency Contacts are used for the S.O.S feature. We gather their names to personalise the SMS sent to them and their phone numbers so we know where to send the text messages to.
+
+Image is used to personalise the user experience.
+
+GPS Coordinates are gathered for the S.O.S feature so the Emergency Contacts can be advised on your location. These are not stored in any way and are gathered only by the request of the user using the S.O.S feature.
+
+All information stored does not automatically expire, The user must delete their account via Prospect in order to remove the information.
+
+In App Purchases are processed by the Google Play Store. We do not collect any payment information. 
+
+Any queries relating to this document may be sent to Scottneville75@gmail.com
+
+This document will be updated if any changes are made
+
+
